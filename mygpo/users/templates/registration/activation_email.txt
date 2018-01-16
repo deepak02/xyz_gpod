@@ -1,0 +1,4 @@
+Click on the link below to activate your account on gpodder.net
+
+https://{{ site.domain }}/activate/{{activation_key}}
+
